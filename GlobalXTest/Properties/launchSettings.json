@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "GlobalXTest": {
+      "commandName": "Project",
+      "commandLineArgs": "./unsorted-names-list.txt"
+    }
+  }
+}

@@ -1,0 +1,11 @@
+C:\Users\calgr\source\repos\GlobalXTest\GlobalXTest\bin\Debug\netcoreapp2.0\GlobalXTest.deps.json
+C:\Users\calgr\source\repos\GlobalXTest\GlobalXTest\bin\Debug\netcoreapp2.0\GlobalXTest.runtimeconfig.json
+C:\Users\calgr\source\repos\GlobalXTest\GlobalXTest\bin\Debug\netcoreapp2.0\GlobalXTest.runtimeconfig.dev.json
+C:\Users\calgr\source\repos\GlobalXTest\GlobalXTest\bin\Debug\netcoreapp2.0\GlobalXTest.dll
+C:\Users\calgr\source\repos\GlobalXTest\GlobalXTest\bin\Debug\netcoreapp2.0\GlobalXTest.pdb
+C:\Users\calgr\source\repos\GlobalXTest\GlobalXTest\obj\Debug\netcoreapp2.0\GlobalXTest.csprojResolveAssemblyReference.cache
+C:\Users\calgr\source\repos\GlobalXTest\GlobalXTest\obj\Debug\netcoreapp2.0\GlobalXTest.csproj.CoreCompileInputs.cache
+C:\Users\calgr\source\repos\GlobalXTest\GlobalXTest\obj\Debug\netcoreapp2.0\GlobalXTest.AssemblyInfoInputs.cache
+C:\Users\calgr\source\repos\GlobalXTest\GlobalXTest\obj\Debug\netcoreapp2.0\GlobalXTest.AssemblyInfo.cs
+C:\Users\calgr\source\repos\GlobalXTest\GlobalXTest\obj\Debug\netcoreapp2.0\GlobalXTest.dll
+C:\Users\calgr\source\repos\GlobalXTest\GlobalXTest\obj\Debug\netcoreapp2.0\GlobalXTest.pdb

@@ -1,0 +1,16 @@
+C:\Users\calgr\source\repos\GlobalXTest\NameSorterTests\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\calgr\source\repos\GlobalXTest\NameSorterTests\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\calgr\source\repos\GlobalXTest\NameSorterTests\bin\Debug\netcoreapp2.0\xunit.runner.utility.netcoreapp10.dll
+C:\Users\calgr\source\repos\GlobalXTest\NameSorterTests\bin\Debug\netcoreapp2.0\NameSorterTests.deps.json
+C:\Users\calgr\source\repos\GlobalXTest\NameSorterTests\bin\Debug\netcoreapp2.0\NameSorterTests.runtimeconfig.json
+C:\Users\calgr\source\repos\GlobalXTest\NameSorterTests\bin\Debug\netcoreapp2.0\NameSorterTests.runtimeconfig.dev.json
+C:\Users\calgr\source\repos\GlobalXTest\NameSorterTests\bin\Debug\netcoreapp2.0\NameSorterTests.dll
+C:\Users\calgr\source\repos\GlobalXTest\NameSorterTests\bin\Debug\netcoreapp2.0\NameSorterTests.pdb
+C:\Users\calgr\source\repos\GlobalXTest\NameSorterTests\bin\Debug\netcoreapp2.0\GlobalXTest.dll
+C:\Users\calgr\source\repos\GlobalXTest\NameSorterTests\bin\Debug\netcoreapp2.0\GlobalXTest.pdb
+C:\Users\calgr\source\repos\GlobalXTest\NameSorterTests\obj\Debug\netcoreapp2.0\NameSorterTests.csprojResolveAssemblyReference.cache
+C:\Users\calgr\source\repos\GlobalXTest\NameSorterTests\obj\Debug\netcoreapp2.0\NameSorterTests.csproj.CoreCompileInputs.cache
+C:\Users\calgr\source\repos\GlobalXTest\NameSorterTests\obj\Debug\netcoreapp2.0\NameSorterTests.AssemblyInfoInputs.cache
+C:\Users\calgr\source\repos\GlobalXTest\NameSorterTests\obj\Debug\netcoreapp2.0\NameSorterTests.AssemblyInfo.cs
+C:\Users\calgr\source\repos\GlobalXTest\NameSorterTests\obj\Debug\netcoreapp2.0\NameSorterTests.dll
+C:\Users\calgr\source\repos\GlobalXTest\NameSorterTests\obj\Debug\netcoreapp2.0\NameSorterTests.pdb
